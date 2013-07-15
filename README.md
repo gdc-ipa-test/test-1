@@ -1,4 +1,4 @@
-# Test repo
+# Test repo -- this is NOT organisation repo, belongs to user `gdc-ipa-test`
 
 This repository is dummy one for testing freeIPA sync tools.
 
